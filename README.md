@@ -10,7 +10,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Hello! My name is Rushikesh Mane. I have 6+ years of experience in IT industry as a Software Tester. Worked in 2 Comapanies, Currently working as Automation Test Engineer for *Barone Budge And Dominick(BBD) India Private Limited*. has worked on Web and mobile based apps for telecom, insurance, healthcare and E-commerse domain. Used K6-JS, Shell scripting, Postman, Java, Javascript, TestProject, Jenkins, Rest Assured, Unirest,Karate  selenium for automation along with excel. 
+  <samp>Hello! My name is Rushikesh Mane. I have 6+ years of experience in IT industry as a Software Tester. Worked in 2 Comapanies, Currently working as Automation Test Engineer for *Barone Budge And Dominick(BBD) India Private Limited*. has worked on Web and mobile based apps for telecom, insurance, healthcare and E-commerce domain. Used K6-JS, Shell scripting, Postman, Java, Javascript, TestProject, Jenkins, Rest Assured, Unirest,Karate  selenium for automation along with excel. 
   </samp>
   <br> <br>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
