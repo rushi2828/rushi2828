@@ -8,7 +8,7 @@
 </div>
 <p align="center"> (Open for Learning)</p>  --->  
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 WhoAmI</h2>
 <p align="center">
   <samp>Hello! My name is Rushikesh Mane. I have 6+ years of experience in IT industry as a Software Tester. Worked in 2 Comapanies, Currently working as Automation Test Engineer for *Barone Budge And Dominick(BBD) India Private Limited*. has worked on Web and mobile based apps for telecom, insurance, healthcare and E-commerce domain. Used K6-JS, Shell scripting, Postman, Java, Javascript, TestProject, Jenkins, Rest Assured, Unirest,Karate  selenium for automation along with excel. 
   </samp>
