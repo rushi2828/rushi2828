@@ -10,7 +10,7 @@
 
 <h2 align="center"> 👨‍💻 WhoAmI</h2>
 <p align="center">
-  <samp>Hello! My name is Rushikesh Mane. I have 6+ years of experience in IT industry as a Software Tester. Worked in 2 Comapanies, Currently working as Automation Test Engineer for *Barone Budge And Dominick(BBD) India Private Limited*. has worked on Web and mobile based apps for telecom, insurance, healthcare and E-commerce domain. Used K6-JS, Shell scripting, Postman, Java, Javascript, TestProject, Jenkins, Rest Assured, Unirest,Karate  selenium for automation along with excel. 
+  <samp>Hello! My name is Rushikesh Mane. I have 6+ years of experience in IT industry as a Software Engineer. Worked in 2 Comapanies, Currently working as Automation Test Engineer for *Barone Budge And Dominick(BBD) India Private Limited*. has worked on Web and mobile based apps for telecom, insurance, healthcare and E-commerce domain. Used K6-JS, Shell scripting, Postman, Java, Javascript, TestProject, Jenkins, Rest Assured, Unirest,Karate  selenium for automation along with excel. 
   </samp>
   <br> <br>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
@@ -28,16 +28,15 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;
 <img src ="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp;&nbsp;
 
      
