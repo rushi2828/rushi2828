@@ -20,8 +20,6 @@
 </p>
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -39,8 +37,8 @@
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp;&nbsp;
-
-     
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>     
 </p>
 <p align="center"> API - Postman,RestAssured, Unirest, Karate
 <p align="center"> Programming Languages - Java,  Javascript, Python
