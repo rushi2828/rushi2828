@@ -37,13 +37,13 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>     
 </p>
-<p align="center"> API - Postman,RestAssured, Unirest, Karate
-<p align="center"> Programming Languages - Java,  Javascript, Python
-<p align="center">Project/Test Management Tool - Jira, Trello
-<p align="center">Automation - Selenium, Appium , TestProject, K6-Javascript
-<p align="center">Devops - Jenkins, Docker, Kubernetes
-<p align="center">Cloud - Azure, Azure Data Factory, AWS
-<p align="center">Code Management - Git, Bitbucket   
+<p align="center">API: Postman, RestAssured, Unirest, Karate
+<p align="center">Programming Languages: Java, Javascript
+<p align="center">Project/Test Management Tool: Jira, Trello
+<p align="center">Testing: Jest, Selenium, Appium, TestProject, K6-Javascript
+<p align="center">Devops: Jenkins, Docker, Kubernetes
+<p align="center">Cloud: Azure, Azure Data Factory, AWS
+<p align="center">Code Management: Git, Bitbucket   
  </p>
 <hr>
 
