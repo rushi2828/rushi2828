@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-
 <h1 align="center"> 👋 </h1>
 <div align="center">
   <img src="https://github.com/gauravkhurana/gauravkhurana/blob/master/images/header.gif" alt="header"/>
