@@ -30,7 +30,8 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>&nbsp;&nbsp;&nbsp;
-<img src=" https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+
 </p>
 <p align="center">API: Postman, RestAssured, Unirest, Karate
 <p align="center">Programming Languages: Java, Javascript
