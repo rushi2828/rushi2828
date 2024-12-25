@@ -1,16 +1,26 @@
-### Hi there 👋
-
-<!--
-<h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://github.com/gauravkhurana/gauravkhurana/blob/master/images/header.gif" alt="header"/>
-</div>
-<p align="center"> (Open for Learning)</p>  --->  
-
-<h2 align="center"> 👨‍💻 WhoAmI</h2>
+<h2 align="center"> 👨‍💻 Hello, and welcome to my GitHub! 👋</h2>
 <p align="center">
-  <samp>Hello! My name is Rushikesh Mane. I have 6+ years of experience in IT industry as a Software Engineer. Worked in 2 Comapanies, Currently working as Automation Test Engineer for *Barone Budge And Dominick(BBD) India Private Limited*. has worked on Web and mobile based apps for telecom, insurance, healthcare and E-commerce domain. Used K6-JS, Shell scripting, Postman, Java, Javascript, TestProject, Jenkins, Rest Assured, Unirest, Karate and Selenium for automation along with excel. 
-  </samp>
+  <samp>Hello! My name is Rushikesh Mane. I’m a DevOps Engineer / Site Reliability Engineer (SRE) with a passion for automating, optimizing, and scaling systems to ensure seamless delivery and high availability. My expertise spans across cloud infrastructure, CI/CD pipelines, and monitoring solutions, with a strong foundation in automation testing to ensure software quality and reliability.
+    
+## 🚀 What I Do
+- **DevOps & SRE**:
+  - Design and implement robust CI/CD pipelines using tools like **Jenkins**, **GitLab**, and **CircleCI**.
+  - Build and manage scalable **cloud infrastructures** on platforms like **AWS**, **Azure**, and **Google Cloud Platform (GCP)**.
+  - Develop Infrastructure as Code (IaC) solutions with **Terraform** and **Ansible**.
+  - Manage and deploy containerized applications using **Docker** and **Kubernetes**.
+  - Implement and fine-tune **monitoring and alerting systems** (e.g., **Prometheus**, **Grafana**).
+
+- **Automation Testing**:
+  - Integrate automated test suites (**Selenium**, **JUnit**, **Postman**) into CI/CD workflows to ensure high software quality.
+  - Develop scripts and automation frameworks in **Python**, **Bash**, and **Shell** for streamlined testing and operations.
+
+## 🛠️ Tech Stack
+- **Languages**: Python, Bash, Shell, YAML
+- **DevOps Tools**: Jenkins, GitLab CI, Docker, Kubernetes, Terraform, Ansible
+- **Cloud Platforms**: AWS, Azure, GCP
+- **Monitoring Tools**: Prometheus, Grafana, ELK Stack
+- **Testing Tools**: Selenium, Postman, JUnit
+</samp>
   <br> <br>
 </p>
 <hr>
