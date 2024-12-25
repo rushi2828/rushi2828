@@ -27,6 +27,7 @@
 </p>
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
@@ -34,21 +35,23 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 
 </p>
-<p align="center">API: Postman, RestAssured, Unirest, Karate
-<p align="center">Programming Languages: Java, Javascript
+<p align="center">API: Postman, RestAssured, Unirest
+<p align="center">Programming Languages: Python, Java, Javascript
 <p align="center">Project/Test Management Tool: Jira, Trello
-<p align="center">Testing: Jest, Selenium, Appium, TestProject, K6-Javascript
+<p align="center">Testing: Jest, Selenium, Appium, TestProject, K6
 <p align="center">Devops: Jenkins, Docker, Kubernetes
-<p align="center">Cloud: Azure, Azure Data Factory, AWS
+<p align="center">Cloud: AWS, Azure
 <p align="center">Code Management: Git, Bitbucket   
  </p>
 <hr>
