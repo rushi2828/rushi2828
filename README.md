@@ -1,6 +1,6 @@
 <h2 align="center"> 👨‍💻 Hello, and welcome to my GitHub! 👋</h2>
 <p align="center">
-  <samp>Hello! My name is Rushikesh Mane. I’m a DevOps Engineer / Site Reliability Engineer (SRE) with a passion for automating, optimizing, and scaling systems to ensure seamless delivery and high availability. My expertise spans across cloud infrastructure, CI/CD pipelines, and monitoring solutions, with a strong foundation in automation testing to ensure software quality and reliability.
+  <samp>Hi, I’m Rushikesh Mane, a DevOps Engineer / Site Reliability Engineer (SRE) with a strong foundation in automation testing. Currently working as an Automation Test Engineer, I’m actively leveraging my skills to design, optimize, and scale infrastructure. My expertise spans cloud platforms, CI/CD pipelines, and monitoring solutions, with a focus on automation to enhance software reliability, streamline deployments, and ensure system availability.
     
 ## 🚀 What I Do
 - **DevOps & SRE**:
