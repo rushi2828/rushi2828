@@ -21,6 +21,24 @@
 - **Monitoring Tools**: Prometheus, Grafana, ELK Stack
 - **Testing Tools**: Selenium, Postman, JUnit
 </samp>
+
+## 📜 Certifications
+
+- **AWS Certified Solutions Architect – Associate**  
+  *Issued by Amazon Web Services (AWS)* 
+
+- **Certified Kubernetes Application Developer (CKAD)**  
+  *Issued by The Linux Foundation & CNCF*
+
+- **HashiCorp Certified: Terraform Associate**  
+  *Issued by HashiCorp*  
+
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+  *Issued by Microsoft* 
+
+- **ISTQB® Certified Tester** 
+  
+
   <br> <br>
 </p>
 <hr>
